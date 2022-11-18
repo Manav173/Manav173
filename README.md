@@ -71,61 +71,10 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/7450747b-7059-474c-95e9-4970523cddd3" target="_blank">
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Badge"/>
   </a>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
-  </a>
 </div>
 
 <br><br>
 
-<!---
-## Certifications
 
-<div id="certifications">
-  <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/48/000000/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-tritone-tal-revivo.png"/>
-  <br>
-  
-  <a href src="https://learn.365datascience.com/certificates/CC-54ED5AFAD8/">Data Analysis with Excel Pivot Tables - 365 Data Science</a>
-  
-  <br><br>
-  
-  <a href src="https://learn.365datascience.com/certificates/CC-8DD06F8590/">Introduction to Tableau - 365 Data Science</a>
-  
-  <br><br>
-  
-  <a href src="https://learn.365datascience.com/certificates/CC-4BB3B282E7/">Introduction to Git and Github - 365 Data Science</a>
-  
-  <br><br>
-  
-  <a href src="https://learn.365datascience.com/certificates/CC-46CD997224/">Introduction to Jupyter - 365 Data Science</a>
-  
-  <br><br>
-  
-  <a href src="https://www.freecodecamp.org/certification/fccc92c3892-97ec-45eb-b6f1-f2633e057178/responsive-web-design">Responsive Web Design - Freecodecamp</a>
-  
-  <br><br>
-  
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-  <br>
-  <a href src="https://www.coursera.org/account/accomplishments/certificate/FQY9C4ZR2ZGW">Getting Started with Data Analytics on AWS - Coursera</a>
-  
-  <br><br>
-  
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/>
-  <br>
-  <a href src="https://drive.google.com/file/d/14l9-NoAG539YIGGhL8AeEgeYBQY65SHG/view">Intro to Programming - Kaggle</a>
-  
-</div>
 
 <br><br>
-
---->
-
-
-
-<!---
-roysammy123/roysammy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
