@@ -62,7 +62,7 @@
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manav173&show_icons=true&theme=tokyonight)
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manav173&size_weight=0&count_weight=1&langs_count=4&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manav173&size_weight=0.5&count_weight=0.5&langs_count=4&layout=donut)
 
 <br><br>
 
