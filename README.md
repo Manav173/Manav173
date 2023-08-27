@@ -14,6 +14,10 @@
   <a href="https://www.kaggle.com/manavmalhotra173" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
+  
+  <a href="https://leetcode.com/Manav173/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000?style=for-the-badge&logo=leetcode&logoColor=logoColor%3Dwhite" alt="Kaggle Badge"/>
+  </a>
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Manav173&style=flat-square&color=blue" alt=""/>
