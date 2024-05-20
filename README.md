@@ -30,7 +30,6 @@
 :man_technologist: Undergrad - B.Tech. in Computer Science & Engineering from KIIT University | B.S. in Programming and Data Science from IIT Madras <br>
 :zap: Interested in Data Science, ML & Infosec <br>
 :email: For any queries, please get in touch with me at any of my socials <br>
-
 <br>
 
 ## Languages, Tools & Technologies known
@@ -78,7 +77,12 @@
 </div>
 
 <br><br>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
+<p align="center">
+         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manav173&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 <br><br>
